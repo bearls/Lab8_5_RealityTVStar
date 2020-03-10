@@ -1,0 +1,11 @@
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\bin\Debug\netcoreapp3.1\reality_tv_programfile.exe
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\bin\Debug\netcoreapp3.1\reality_tv_programfile.deps.json
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\bin\Debug\netcoreapp3.1\reality_tv_programfile.runtimeconfig.json
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\bin\Debug\netcoreapp3.1\reality_tv_programfile.runtimeconfig.dev.json
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\bin\Debug\netcoreapp3.1\reality_tv_programfile.dll
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\bin\Debug\netcoreapp3.1\reality_tv_programfile.pdb
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\obj\Debug\netcoreapp3.1\reality_tv_programfile.csprojAssemblyReference.cache
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\obj\Debug\netcoreapp3.1\reality_tv_programfile.AssemblyInfoInputs.cache
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\obj\Debug\netcoreapp3.1\reality_tv_programfile.AssemblyInfo.cs
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\obj\Debug\netcoreapp3.1\reality_tv_programfile.dll
+D:\Users\bearls\source\repos\reality_tv_programfile\reality_tv_programfile\obj\Debug\netcoreapp3.1\reality_tv_programfile.pdb
